@@ -335,7 +335,7 @@ Changes the base location of the configuration directories used for the apache s
 
 #####`keepalive`
 
-Enables persistent connections.
+Enables persistent connections. Defaults to 'On'.
 
 #####`keepalive_timeout`
 
